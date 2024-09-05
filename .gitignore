@@ -1,0 +1,6 @@
+.venv/
+
+results/
+
+test/
+tiny-imagenet-200/
