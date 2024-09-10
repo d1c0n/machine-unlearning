@@ -5,3 +5,4 @@ results/
 test/
 tiny-imagenet-200/
 __pycache__/
+data/
